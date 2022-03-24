@@ -11,7 +11,7 @@ SECRET_KEY = 'django-insecure-bt$0hbube(t@)0+23272&t55u_cjgt+y)#-@vwqlo9k(_&z^yc
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['yourdomain.com', '127.0.0.1']
 
 
 
@@ -51,6 +51,7 @@ TEMPLATES = [
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
                 'store.views.categories',
+                
             ],
         },
     },
