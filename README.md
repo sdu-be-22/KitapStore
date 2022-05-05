@@ -23,7 +23,6 @@ of our site, users can make their lives easier.
 
 # Scope and Features
 
-
 # Project structure
 ◾ Intro page
 ◾ Home page
