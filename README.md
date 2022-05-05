@@ -6,7 +6,7 @@ Kitap store - website can help people to buy books without leaving home easily a
 You can also pay online with a credit card and have it delivered directly to your home.
 
 # Mentor 
-Bissenbay Dauletbayev - b.dauletbayev@sdu.edu.kz
++ Bissenbay Dauletbayev - b.dauletbayev@sdu.edu.kz
 
 # Team Members
 + Adebitov Altair - 200103377@stu.sdu.edu.kz 
@@ -21,7 +21,10 @@ Some people live far from libraries or bookshops, which makes it difficult to bu
 of our site, users can make their lives easier.
 
 # Scope and Features
-
++ Same UI and Business Logic in All Platforms
++ Similar to Native App Performance
++ Custom, Animated UI of Any Complexity Available
++ Simple Platform-Specific Logic Implementation
 
 # Project structure
 - Intro page
