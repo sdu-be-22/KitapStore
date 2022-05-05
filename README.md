@@ -2,7 +2,8 @@
 Website for selling different books!
 
 # Description of project
-Kitap store - website can help people to buy books without leaving home easily and simply. You can also pay online with 
+Kitap store - website can help people to buy books without leaving home easily and simply.
+You can also pay online with 
 a credit card and have it delivered directly to your home.
 
 # Mentor 
@@ -28,4 +29,7 @@ of our site, users can make their lives easier.
 ◾ Home page
 ◾ Login/registration page
 ◾ Basket page
-◾ 
+
+# Users
+This app can be used by anyone who wants to take care of themselves and learn. 
+In the application, you can buy books and read at any time.
