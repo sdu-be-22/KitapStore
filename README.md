@@ -46,9 +46,9 @@ In the application, you can buy books and read at any time.
 # Database
 For this project, we use SQlite database.
 
-Database consists of two tables with relation one to many: Two tables connected with foreign key user_id, because one user has many records.
+Database consists of two tables with relation one to many: Two tables connected with foreign key user_id, because one user has many nooks.
 
-to record data:
+
 ![image](https://user-images.githubusercontent.com/90964357/166980894-13cec4fd-905d-49a2-be9b-aef05ab0c2a4.png)
 
 
