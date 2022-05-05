@@ -38,3 +38,11 @@ In the application, you can buy books and read at any time.
 
 # Screenshots
 ![image](https://user-images.githubusercontent.com/90964357/166976892-7e5172be-d494-4bd2-b843-57b2135865de.png)
+![image](https://user-images.githubusercontent.com/90964357/166977030-1314f257-2685-4a4b-ac81-0c59b8f6dac1.png)
+![image](https://user-images.githubusercontent.com/90964357/166977093-e916b377-5dd1-4cfd-a252-cf9760dc427e.png)
+![image](https://user-images.githubusercontent.com/90964357/166977131-e3f7edbb-e464-4a0f-ae7f-7a4744829e9b.png)
+![image](https://user-images.githubusercontent.com/90964357/166977182-75c06e09-36ea-4406-911d-5c272c3ca98b.png)
+
+
+
+
