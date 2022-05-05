@@ -43,6 +43,14 @@ In the application, you can buy books and read at any time.
 ![image](https://user-images.githubusercontent.com/90964357/166977131-e3f7edbb-e464-4a0f-ae7f-7a4744829e9b.png)
 ![image](https://user-images.githubusercontent.com/90964357/166977182-75c06e09-36ea-4406-911d-5c272c3ca98b.png)
 
+# Database
+For this project, we use SQlite database.
+
+Database consists of two tables with relation one to many: Two tables connected with foreign key user_id, because one user has many records.
+
+to record data:
+![image](https://user-images.githubusercontent.com/90964357/166980894-13cec4fd-905d-49a2-be9b-aef05ab0c2a4.png)
+
 
 
 
