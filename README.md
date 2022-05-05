@@ -2,9 +2,8 @@
 Website for selling different books!
 
 # Description of project
-Kitap store - website can help people to buy books without leaving home easily and simply.
-You can also pay online with 
-a credit card and have it delivered directly to your home.
+Kitap store - website can help people to buy books without leaving home easily and simply.***
+You can also pay online with a credit card and have it delivered directly to your home.
 
 # Mentor 
 Bissenbay Dauletbayev - b.dauletbayev@sdu.edu.kz
