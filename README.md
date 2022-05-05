@@ -10,9 +10,9 @@ a credit card and have it delivered directly to your home.
 Bissenbay Dauletbayev - b.dauletbayev@sdu.edu.kz
 
 # Team Members
-1. Adebitov Altair - 200103@stu.sdu.edu.kz line1\	
-2. Nsanbaev Dinmukhmedrahmani - 200102@stu.sdu.edu.kz  
-3. Sagalov Zhandos - 200103309@stu.sdu.edu.kz  
++ Adebitov Altair - 200103@stu.sdu.edu.kz 
++ Nsanbaev Dinmukhmedrahmani - 200102@stu.sdu.edu.kz  
++ Sagalov Zhandos - 200103309@stu.sdu.edu.kz  
 
 # Goal
 The purpose of our site is to provide people with a book, so that people become more educated.
