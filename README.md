@@ -24,3 +24,8 @@ of our site, users can make their lives easier.
 
 
 # Project structure
+◾ Intro page
+◾ Home page
+◾ Login/registration page
+◾ Basket page
+◾ 
