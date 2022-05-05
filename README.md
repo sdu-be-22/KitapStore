@@ -29,10 +29,10 @@ of our site, users can make their lives easier.
 >Первый уровень цитирования
 
 # Project structure
-◾ Intro page
-◾ Home page
-◾ Login/registration page
-◾ Basket page
+- Intro page
+- Home page
+- Login/registration page
+- Basket page
 
 # Users
 This app can be used by anyone who wants to take care of themselves and learn. 
