@@ -4,7 +4,12 @@ from .models import Category, Product
 
 
 def product_all(request):
-    products = Product.products.all()
+    if 'q' in request.GET:
+        q = request.GET['q']
+        products = Product.objects.filter(title__contains=q)
+        
+    else:
+        products = Product.products.all()
     return render(request, 'store/home.html', {'products': products})
 
 
