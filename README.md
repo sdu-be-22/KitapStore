@@ -27,6 +27,9 @@ of our site, users can make their lives easier.
 + Custom, Animated UI of Any Complexity Available
 + Simple Platform-Specific Logic Implementation
 
+# Presentation
++https://www.canva.com/design/DAFA9YH8RuQ/uuXeA_P3Xd14HDlbxrmwcA/view?utm_content=DAFA9YH8RuQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
 # Project structure
 - Intro page
 - Home page
