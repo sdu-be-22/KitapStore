@@ -25,7 +25,7 @@ def BasketView(request):
                 'Sender',
                 'message from ' + customer_name + ','
                  + message_email + '.'
-                  + "My address" + Country+ ',' +address+',' + address2+"."
+                  + " My address" + Country+ ',' +address+',' + address2+"."
                 + 'State: ' + State + ". Postcode" + Postcode,
                 
                 message_email,
